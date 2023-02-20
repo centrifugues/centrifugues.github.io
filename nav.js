@@ -8,7 +8,7 @@ document.write("            <div><a class=\"navLink\" href=\"auditions.html\">Au
 document.write("            <div class=\"navLink-dropdown\">");
 document.write("                Events");
 document.write("                <div class=\"dropdown-content\">");
-document.write("                    <a href=\"events.html\">Events Calendar<\/a>");
+// document.write("                    <a href=\"events.html\">Events Calendar<\/a>");
 document.write("                    <a href=\"concerts.html\">Concerts<\/a>");
 document.write("                    <a href=\"cpw-fwacc.html\">CPW 2023<\/a>");
 document.write("                  <\/div>");
